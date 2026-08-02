@@ -58,7 +58,7 @@ The idea is simple: an NFC tag attached to the fridge allows any family member t
 
 ### Project Status
 
-🚧 Under development
+Under development
 
 ---
 
