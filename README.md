@@ -53,6 +53,7 @@ The idea is simple: an NFC tag attached to the fridge allows any family member t
 - JavaScript
 - Firebase
 - NFC (NTAG215)
+- NFC Tools
 - GitHub
 - Vercel
 
